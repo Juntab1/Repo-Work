@@ -1,0 +1,4 @@
+Today I worked on the repo original-husky-scheduler.
+I worked on our about page and trying to create a
+function where if you hover over the picture you
+can get some info of us who are working on the website
