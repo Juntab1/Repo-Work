@@ -1,0 +1,7 @@
+I finished the about-page for my groups website.
+I like how the page functions. 
+I need to figure out how to fit 5 vertically though
+because right now it only fits 3. Also, I need to play around
+with the picture size, it looks blurry rn. Also, change 
+color pattern at some point. Maybe you can change the shadow
+pattern around every container too if you feel.
