@@ -1,0 +1,7 @@
+Worked more on the contact page.
+Today I made it try to look more fancy by 
+adding a saturation filter on it so when 
+you glide over the photo of someone it 
+lights up to its original color.
+That worked well but now I am having trouble with the
+sizing of the objects on the website so I will need to figure that out!
