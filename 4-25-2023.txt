@@ -1,0 +1,4 @@
+Today I worked more on understanding css.
+Today I learned more about spacing using span 
+and also learned more about how and where I should
+be using box-shadow!
