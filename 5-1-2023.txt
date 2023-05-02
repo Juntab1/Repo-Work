@@ -1,0 +1,6 @@
+Today I met with my programming group to talk about our project. 
+We are getting close to be done with a rough draft of out website.
+We figured out a few problems we were having today with small things
+with user data. I need to work on figuring out how to put info from 
+users into our json file. However, other than that it is just cleaning 
+up the website in general and connecting all the pages then we are done!
