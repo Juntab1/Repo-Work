@@ -1,0 +1,6 @@
+Today I tried to figure out the problem we were having with
+putting a node.js function into a js file. The problem
+was that the js file does not hold the function from node
+which we call "node.js". So, I need to install something that
+helps gather all the dependencies and makes it so we can use 
+require in js.
