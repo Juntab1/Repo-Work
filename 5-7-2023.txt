@@ -1,0 +1,4 @@
+I am still having trouble figuring out how to actually get the 
+function of saving info to a json file working but today I figured
+out how to save info a user passses in as a object and use it for
+like a confirm page to make sure your info is correct.
