@@ -2,4 +2,6 @@ Today I met up with my group and tried to figure out the saving
 user input to a json file. However, after trying for more than 
 a hour I could not figure it out. So, now we are going to go 
 ask the tech team how to resolve the problem. However, I believe that
-I know what the problem is but am not 100% sure.
+I know what the problem is but am not 100% sure. I also, figured out
+the importance of a few lines of code and such so that was helpful to learn
+on the way of solving this problem.
