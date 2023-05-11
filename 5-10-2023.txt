@@ -1,0 +1,6 @@
+One of the other people in my group asked the tech team for help
+and from reading the code added to the git repository it seems
+that we need to use environments/node js. I do not fully understand
+environments yet but it seems helpful when dividing up stages of a project
+to make it so the users can't access or change all variables of your code
+and also makes it easy to store data some times, for when a server is running?
