@@ -1,0 +1,5 @@
+I figured out the problem that I need to fix. 
+We were trying to run a node.js file with normal js 
+so that does not work. Our code is not technically wrong.
+All we need to do is make our code into an API, with AJAX, so we 
+can call it to the main server, aka website! 
