@@ -1,0 +1,6 @@
+I tried to copy everything that the website told me to copy
+into our code but I keep on getting this weird error. So now
+my plan is to try to create a whole new file where I put 
+that code from the website and see if I get an error there. If 
+I do not then I will know that the error is coming from the other
+code that I wrote.
