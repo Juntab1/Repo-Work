@@ -3,4 +3,7 @@ our website. Also, while at the meeting I figured out how to actually
 save user input and create it into a json text format. Now, I just need
 to figure out how to acutally put the data in a json file. Other than that
 it is looking good so far. Also, I was able to understand more what the 
-code I was writing was doing so that was good.
+code I was writing was doing so that was good. I just need to try to finish
+the contant page soon. Also, there was another idea brought up of bringing
+up the user's email to just email us directly if that is easier to implement
+as the contanct page or not.
