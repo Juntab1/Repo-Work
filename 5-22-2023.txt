@@ -1,0 +1,6 @@
+Today I met up with my group and talked about the next stages of 
+our website. Also, while at the meeting I figured out how to actually 
+save user input and create it into a json text format. Now, I just need
+to figure out how to acutally put the data in a json file. Other than that
+it is looking good so far. Also, I was able to understand more what the 
+code I was writing was doing so that was good.
